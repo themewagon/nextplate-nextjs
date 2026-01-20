@@ -36,7 +36,7 @@ features:
     button:
       enable: true
       label: "Get Started Now"
-      link: "https://themewagon.com/themes/cryptoflow/"
+      link: "https://themewagon.com/themes/nextplate-nextjs/"
 
   - title: "The Top Reasons to Choose Next for Your Next Project"
     image: "/images/service-3.png"
