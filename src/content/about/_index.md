@@ -2,7 +2,7 @@
 title: "Hey, I am John Doe!"
 meta_title: "About"
 description: "this is meta description"
-image: "/images/image-placeholder.png"
+image: "/nextplate-nextjs/images/image-placeholder.png"
 draft: false
 ---
 

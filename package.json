@@ -6,8 +6,8 @@
   "license": "MIT",
   "packageManager": "yarn@1.22.22",
   "scripts": {
-    "dev": "concurrently \"node scripts/themeGenerator.mjs --watch\" \"yarn generate-json && next dev\"",
-    "build": "node scripts/themeGenerator.mjs && yarn generate-json && next build",
+    "dev": "concurrently \"node scripts/themeGenerator.mjs --watch\" \"npm run generate-json && next dev\"",
+    "build": "node scripts/themeGenerator.mjs && npm run generate-json && next build",
     "preview": "next start",
     "postbuild": "next-sitemap",
     "lint": "eslint \"src/**/*.{js,jsx,ts,tsx}\"",
