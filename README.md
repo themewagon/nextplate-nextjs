@@ -4,7 +4,7 @@
  - [Demo](https://themewagon.github.io/nextplate-nextjs/)
 
 #### Download
- - [Download from ThemeWagon](https://themewagon.com/themes/nextplate-nextjs/)
+ - [Download from ThemeWagon](https://themewagon.com/themes/nextplate/)
 
 ## Getting Started
 
